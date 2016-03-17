@@ -1,0 +1,3 @@
+= Simple Bible Gateway API
+
+To use this API, you'll need a credentials file, which requires informaiton from Bible Gateway.
