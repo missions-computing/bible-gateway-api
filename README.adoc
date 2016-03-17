@@ -1,3 +1,4 @@
 = Simple Bible Gateway API
 
-To use this API, you'll need a credentials file, which requires informaiton from Bible Gateway.
+To use this API, you need to create a `bg-keys.json` file containing a valid access token.
+To create the token, you need credentials (user name, password) from Bible Gateway.
